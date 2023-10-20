@@ -18,7 +18,7 @@ export const Content = () => {
           <div className="card-body">
             <h2 className="card-title">Story, emotion, and purpose</h2>
             <p className="card-text">
-              We help transform your ideas into real-world applications that
+              We help! transform your ideas into real-world applications that
               will outperform your toughest competition and help you achieve
               your strategic goals in a short period of time.
             </p>
